@@ -1,0 +1,40 @@
+.main {
+  width: 400px;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+img {
+  width: 150px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+form {
+  width: 400px;
+  margin: 0 auto;
+}
+.text {
+    width: 400px;
+    height: 25px;
+    border-radius: 15px;
+    margin-top: 20px;
+    border-color: #c4c4c4;
+    color: #5b5b5b;
+}
+.button {
+  width: ~80px;
+  height: 30px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: #4285f3;
+  border-color: #1a5fd0;
+  border-radius: 5px;
+  color: white;
+}
+button:hover {
+  color: #5998ff;
+}
+ .navigation {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+ }

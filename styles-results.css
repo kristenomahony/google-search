@@ -1,0 +1,33 @@
+.navigation {
+  display: grid;
+  grid-template-columns: 150px auto;
+  border: 1px solid #c4c4c4;
+}
+.navigation img {
+  width: 100%;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+input {
+  width: 400px;
+  height: 30px;
+  border-radius: 20px;
+  border: 1px solid #c4c4c4;
+  padding-left: 30px;
+  padding-top: 15px;
+  margin: 10px 30px;
+}
+button {
+  width: 80px;
+  height: 40px;
+  color: white;
+  background-color: #4285f3;
+  border-color: #1a5fd0;
+  border: 5px;
+  margin: 10px 140px 10px 15px;
+  border-radius: 5px;
+}
+.main {
+  border: 1px solid #c4c4c4;
+
+}
